@@ -1,2 +1,2 @@
-# contribution-interface
-## Interface contribution project
+# contribution-UX
+## Interface contribution project + Extension
